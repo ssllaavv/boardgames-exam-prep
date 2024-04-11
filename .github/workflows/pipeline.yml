@@ -58,5 +58,6 @@ jobs:
     - name: Install node modules
       run: npm install 
     - name: run UI tests
-      run: npm run test:UI
+      run: npm run test:ui
    
+      
